@@ -161,3 +161,6 @@ cython_debug/
 
 # Hugging Face Token
 hf_token.txt
+
+# Langfuse Token
+langfuse_token.json
